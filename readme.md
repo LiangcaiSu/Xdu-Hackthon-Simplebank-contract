@@ -1,4 +1,4 @@
-#### # 基于以太坊的Simplebank智能合约
+# 基于以太坊的Simplebank智能合约
 #### 需要准备如下的工具
 - Ethereum Wallet 
 - Browser-Solidity
